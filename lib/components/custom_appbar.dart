@@ -8,7 +8,7 @@ class CustomAppBar extends AppBar {
           backgroundColor: Colors.white,
           iconTheme: const IconThemeData(color: Colors.black),
           title: Image.asset(
-            "assets/youtube-logo.png",
+            "assets/youtube_logo.png",
             width: 100,
           ),
           actions: [

@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:youtube_clone_ui_flutter/components/clip_bar_contents.dart';
+import 'package:youtube_clone_ui_flutter/components/video_card.dart';
 import 'package:youtube_clone_ui_flutter/models/video_model.dart';
-import 'package:youtube_clone_ui_flutter/ui/clip_bar_contents.dart';
-import 'package:youtube_clone_ui_flutter/ui/custom_appbar.dart';
-import 'package:youtube_clone_ui_flutter/ui/video_card.dart';
 
 import '../components/custom_appbar.dart';
 import '../components/custom_bottom_navigation_bar.dart';
